@@ -1,6 +1,6 @@
 /**
  * @file inc.h
- * @author Cuddapah Nikhil Sai 
+ * @author Nitya Sai
  * @brief Libray books management system
  * 
  * @date 2021-04-14
