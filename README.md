@@ -1,4 +1,4 @@
-# Library Book Management system
+# Library Management system
 
  Git Inspector | Unity | Code Quality
 |------------|-----------|----------------
