@@ -3,7 +3,8 @@
  Git Inspector | Unity | Code Quality
 |------------|-----------|----------------
 [![Contribution Check - Git Inspector][![Contribution Check - Git Inspector](https://github.com/Nityasai5009/Stepin_Library-Management-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Nityasai5009/Stepin_Library-Management-System/actions/workflows/gitinspector.yml)|[![Unit Testing][![Unit Testing](https://github.com/Nityasai5009/Stepin_Library-Management-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Nityasai5009/Stepin_Library-Management-System/actions/workflows/unit-test.yml)|[![cppcheck-action][![cppcheck-action](https://github.com/Nityasai5009/Stepin_Library-Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nityasai5009/Stepin_Library-Management-System/actions/workflows/cppcheck.yml)
-[https://www.code-inspector.com/project/27581/score/svg]|
+| Code inspector |code inspector|codacy|
+|![code quality score](https://www.code-inspector.com/project/27581/score/svg)| ![code grade](https://www.code-inspector.com/project/27581/status/svg)|![codacy](https://app.codacy.com/gh/Nityasai5009/Stepin_Library-Management-System/dashboard)|
 
 ## Folder Structure
 Folder             | Description
